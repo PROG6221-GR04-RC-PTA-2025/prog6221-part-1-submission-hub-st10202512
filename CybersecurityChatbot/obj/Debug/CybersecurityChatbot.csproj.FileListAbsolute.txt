@@ -1,0 +1,10 @@
+C:\Users\hlulani hope mashaba\source\repos\CybersecurityChatbot\CybersecurityChatbot\bin\Debug\CybersecurityChatbot.exe.config
+C:\Users\hlulani hope mashaba\source\repos\CybersecurityChatbot\CybersecurityChatbot\bin\Debug\CybersecurityChatbot.exe
+C:\Users\hlulani hope mashaba\source\repos\CybersecurityChatbot\CybersecurityChatbot\bin\Debug\CybersecurityChatbot.pdb
+C:\Users\hlulani hope mashaba\source\repos\CybersecurityChatbot\CybersecurityChatbot\bin\Debug\Figgle.dll
+C:\Users\hlulani hope mashaba\source\repos\CybersecurityChatbot\CybersecurityChatbot\bin\Debug\Figgle.xml
+C:\Users\hlulani hope mashaba\source\repos\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\CybersecurityChatbot.csproj.AssemblyReference.cache
+C:\Users\hlulani hope mashaba\source\repos\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\CybersecurityChatbot.csproj.CoreCompileInputs.cache
+C:\Users\hlulani hope mashaba\source\repos\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\Cybersec.C23A7829.Up2Date
+C:\Users\hlulani hope mashaba\source\repos\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\CybersecurityChatbot.exe
+C:\Users\hlulani hope mashaba\source\repos\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\CybersecurityChatbot.pdb
